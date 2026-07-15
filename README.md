@@ -1,4 +1,4 @@
-**Laboratório de Front-end **
+**Laboratório de Front-end**
 
 
 Este repositório serve como meu laboratório de experimentação e aprendizado em desenvolvimento web. Aqui, documento minha jornada desde os fundamentos do HTML5 e CSS3, passando pela lógica dinâmica com JavaScript, até a construção de interfaces complexas com React.
